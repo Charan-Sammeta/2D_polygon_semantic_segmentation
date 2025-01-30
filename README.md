@@ -1,6 +1,4 @@
-Here's the text file version of the README (save as `README.md`):
 
-```
 # PennFudanPed Instance Segmentation with Mask R-CNN
 
 ![Sample Prediction](sample_prediction.png)  
